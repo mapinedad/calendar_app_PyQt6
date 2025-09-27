@@ -3,8 +3,6 @@
 This is a little project for an calendar app. This project was made for practice with PyQt6 GUI development.
 
 The features of this app is the following:
-
-  - The app needs a way to store events that we enter. 
   - The All Day checkbox should disable the time entry when checked. 
   - Selecting a day on the calendar should populate the event list with the events for that day. 
   - Selecting an event in the event list should populate the form with the event’s details. 
